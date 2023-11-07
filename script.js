@@ -1,5 +1,5 @@
-//your JS code here. If required.
-// Get the user agent string
+
+        // Get the user agent string
         var userAgent = navigator.userAgent;
 
         // Detect the browser name and version
